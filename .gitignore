@@ -2,6 +2,13 @@
 bin/
 *.class
 
+# Database SQLite (dibuat otomatis saat run)
+game.db
+game.db-journal
+
+# Driver (di-download otomatis oleh run.bat)
+lib/
+
 # Editor / OS
 .idea/
 .vscode/
